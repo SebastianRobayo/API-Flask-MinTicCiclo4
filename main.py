@@ -16,16 +16,6 @@ departamentoController = DepartamentoController()
 materiaController = MateriaController()
 inscripcionController = InscripcionController()
 
-
-# ca = certifi.where()
-# client = pymongo.MongoClient(
-# "mongodb+srv://usuario-pruebas:root123456@cluster0.unflt.mongodb.net/?retryWrites=true&w=majority", tlsCAFile=ca)
-# db = client.test
-# print(db)
-
-# baseDatos = client["db-registro-academico"]
-# print(baseDatos.list_collection_names())
-
 # TODO:Controlador Estudiantes
 
 
